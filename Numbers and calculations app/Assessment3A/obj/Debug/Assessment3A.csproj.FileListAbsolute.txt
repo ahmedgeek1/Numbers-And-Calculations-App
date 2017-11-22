@@ -1,0 +1,18 @@
+H:\Assessment3A\Assessment3A\bin\Debug\Assessment3A.exe.config
+H:\Assessment3A\Assessment3A\bin\Debug\Assessment3A.exe
+H:\Assessment3A\Assessment3A\bin\Debug\Assessment3A.pdb
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.csprojResolveAssemblyReference.cache
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.Form1.resources
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.Properties.Resources.resources
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.csproj.GenerateResource.Cache
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.exe
+H:\Assessment3A\Assessment3A\obj\Debug\Assessment3A.pdb
+H:\Week 3 Assignments\Assessment3A\Assessment3A\bin\Debug\Assessment3A.exe.config
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.exe
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.pdb
+H:\Week 3 Assignments\Assessment3A\Assessment3A\bin\Debug\Assessment3A.exe
+H:\Week 3 Assignments\Assessment3A\Assessment3A\bin\Debug\Assessment3A.pdb
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.csprojResolveAssemblyReference.cache
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.Form1.resources
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.Properties.Resources.resources
+H:\Week 3 Assignments\Assessment3A\Assessment3A\obj\Debug\Assessment3A.csproj.GenerateResource.Cache
